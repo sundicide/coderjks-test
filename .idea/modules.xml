@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.coderjks.camel.coderjksCamel.iml" filepath="$PROJECT_DIR$/.idea/modules/com.coderjks.camel.coderjksCamel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.coderjks.camel.coderjksCamel.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.coderjks.camel.coderjksCamel.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.coderjks.camel.coderjksCamel.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.coderjks.camel.coderjksCamel.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.coderjks.java.coderjksJava.iml" filepath="$PROJECT_DIR$/.idea/modules/com.coderjks.java.coderjksJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.coderjks.java.coderjksJava.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.coderjks.java.coderjksJava.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.coderjks.java.coderjksJava.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.coderjks.java.coderjksJava.test.iml" />
+    </modules>
+  </component>
+</project>
