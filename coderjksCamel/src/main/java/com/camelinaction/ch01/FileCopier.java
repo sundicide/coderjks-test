@@ -6,7 +6,9 @@ import java.io.*;
 
 public class FileCopier {
     public static void main(String args[]) throws Exception {
+        System.out.println(new File("./").getPath());
         File inboxDirectory = new File("data/inbox");
+//        File inboxDirectory = new File(FileCopier.class.getResource("data/inbox").);
         File outboxDirectory = new File("data/outbox");
 
         outboxDirectory.mkdir();
